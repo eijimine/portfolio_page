@@ -222,3 +222,21 @@ img::-moz-selection {
 
 body {
   -webkit-tap-highlight-color: rgba(255, 255, 255, 0.2); }
+
+.projects {
+  background-color: rgba(44, 62, 80, 0.7);
+  height: 350px;
+  width: 100%;
+}
+
+.project-1 {
+  width: 100%;
+}
+
+.project-2{
+  width: 100%;
+}
+
+.project-3 {
+  width: 100%;
+}
